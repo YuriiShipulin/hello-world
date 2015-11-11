@@ -1,2 +1,2 @@
 # hello-world
-# project description below
+# project description
